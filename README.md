@@ -11,6 +11,7 @@ OpenCV
 2. pip install dlib
 3. pip install face_recognition
 4. pip install opencv-python
+5. pip install imutils
 
 #Reference 
 http://pyimagesearch.com/
